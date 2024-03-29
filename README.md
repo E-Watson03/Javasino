@@ -1,7 +1,9 @@
 # Javsino-Java-Personal-Project
-A personal project, a text based casino simulation build in the Java language.
+A personal project, a text based casino simulation built in the Java language.
 
- - My notes and work towards how I made this project.
+
+My notes and how I thought out the logic and steps it would take to build this program:
+
 # Define the overall structure of the program.
 
 Opens on welcome text that introduces the name and aim of the game, the player is asked to input the max amount of money in their wallet that they will be betting with. They are then introduced to the 5 potential games and told to select one. After one is selected they are walked over to the table and a prompt appears asking them if they would like a tutorial of the game or want to freeplay. After the tutorial is complete they are asked to place their bet/pot which may differ depending on which game they have chosen to play. If they win over 0.25, 0.5, 0.75, 1.0 of their money an encouraging statement will accompany each percentage win. If they lose the same percentage of their original bets a warning statement will accompany each transaction. Once the round of the came is over a prompt will ask them if they would like to play another round/edit their bets or leave the game and cashout. Their new balance will be printed once they leave that game, they will then be given the option to leave the javasino or continue playing another game. If they bust out of money they will be removed from the javasino and the javasino experience will end. However if they win over 1000% of their money back they will also be comically removed from the javasino in a private helicopter to the Jotel suite that the javasino people have put on for them to enjoy (they’re just winning too much).
