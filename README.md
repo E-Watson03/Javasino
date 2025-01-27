@@ -31,7 +31,7 @@ Opens on welcome text that introduces the name and aim of the game, the player i
     - Classes responsible for displaying information to the user and handling user input. This includes text prompts, messages, and menus.
     
     ```python
-    pythonCopy code
+    
     class GameText:
         @staticmethod
         def display_intro():
@@ -54,7 +54,7 @@ Opens on welcome text that introduces the name and aim of the game, the player i
     - The main game class that orchestrates the interaction between the game functionality and user interface classes.
     
     ```python
-    pythonCopy code
+    
     class AdventureGame:
         def __init__(self):
             self.game_text = GameText()
