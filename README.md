@@ -1,4 +1,4 @@
-# Javsino-Java-Personal-Project
+# Javsino-Java-Personal-Project [In Progress]
 A personal project, a text based casino simulation built in the Java language.
 
 
