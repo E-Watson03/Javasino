@@ -14,7 +14,7 @@ Opens on welcome text that introduces the name and aim of the game, the player i
     - Classes responsible for managing the game logic, actions, and state. These classes focus on the underlying mechanics of the game.
     
     ```python
-    pythonCopy code
+    
     class Player:
         # Player-related functionality
     
